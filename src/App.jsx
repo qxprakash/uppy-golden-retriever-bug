@@ -8,7 +8,7 @@ import GoldenRetriever from "@uppy/golden-retriever";
 import Tus from "@uppy/tus";
 import { useState } from "react";
 import Compressor from "@uppy/compressor";
-import "./app.css";
+import "./App.css";
 import "@uppy/core/css/style.css";
 import "@uppy/dashboard/css/style.css";
 
